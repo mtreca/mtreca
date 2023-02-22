@@ -1,6 +1,6 @@
 <h2> Hi! I'm Maxime.</h2>
 
-I am a PhD graduate from Paris Saclay looking for opportunities as a machine learning scientist. I am also a lead ML and AI teacher at Le Wagon and PSTB. On my free time, I like to hack on Emacs and experiment with LISP languages.
+I am a machine learning scientist @Adyen. On my free time, I like to hack on Emacs and experiment with LISP languages.
 
 <h3> Stack and tools: </h3>
 
@@ -19,7 +19,5 @@ I am a PhD graduate from Paris Saclay looking for opportunities as a machine lea
 
 <h3> Contact Me </h3>
 
-<a href="https://www.maximetreca.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.maximetreca.com-black?style=flat-square&logo=pagekit"></a>
 <a href="https://www.linkedin.com/in/maxime-treca/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maxime%20Tréca-black?style=flat-square&logo=linkedin"></a>
-<a href="https://scholar.google.com/citations?user=gzPfGFwAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Maxime%20Tréca-black?style=flat-square&logo=googlescholar"></a>
 <a href="mailto:maxime.treca@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maxime.treca@gmail.com-black?style=flat-square&logo=gmail"></a>
